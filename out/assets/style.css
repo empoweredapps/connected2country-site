@@ -84,7 +84,7 @@ footer a{color:#E9B86A;text-decoration:none}footer a:hover{text-decoration:under
 
 .hero-img{background:linear-gradient(180deg,rgba(251,247,240,.92) 0%,rgba(251,247,240,.86) 38%,rgba(251,247,240,.35) 52%,rgba(251,247,240,.30) 100%),url(/assets/hero.jpg) center/cover no-repeat}
 .hero-img .hero{background:none}
-.services-home{padding:40px 0 50px}.services-home h2{background:rgba(251,247,240,.85);padding:4px 10px;border-radius:4px}.services-home .card{background:rgba(255,255,255,.93)}
+.services-home{padding:40px 0 50px}.services-home h2{text-shadow:0 0 10px rgba(251,247,240,.9)}.services-home .card{background:rgba(255,255,255,.93)}
 .banner{margin:18px 0 8px}.banner img{display:block;width:100%;height:auto;border-radius:8px;aspect-ratio:1400/560;object-fit:cover}
 .banner figcaption{font-size:.75rem;color:var(--mute);margin-top:4px}
 .hero-img .lead,.hero-img .small{color:var(--ink)}
