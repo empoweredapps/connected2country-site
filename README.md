@@ -1,7 +1,7 @@
 # connected2country.au — deploy & edit
 
 ## Deploy (cPanel, Crazy Domains)
-1. cPanel → File Manager → public_html (or the addon-domain docroot for connected2country.au). Delete any placeholder files.
+1. cPanel → File Manager → public_html/connected2country.au. Delete any placeholder files.
 2. Upload `connected2country-site-upload.zip`, right-click → Extract, then delete the zip. Make sure `.htaccess` extracted (enable "Show hidden files" in File Manager settings).
 3. cPanel → SSL/TLS Status → run AutoSSL for connected2country.au so the HTTPS redirect in .htaccess works.
 4. cPanel → Email Accounts → create `noreply@connected2country.au` (any password; it's only the From address) and ensure `helen@connected2country.au` exists. The contact form posts to `/contact.php` via PHP mail().

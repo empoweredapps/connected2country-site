@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/$USER/public_html/
+    - export DEPLOYPATH=/home/$USER/public_html/connected2country.au/
     - /bin/cp -R out/. $DEPLOYPATH
