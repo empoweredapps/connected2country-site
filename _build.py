@@ -309,7 +309,6 @@ def home():
     regs = "".join(f'<a class="card" href="/regions/{r["slug"]}/"><h3>{esc(r["nav"])}</h3><p>{esc(r["places"].split(",")[0])} and surrounds</p></a>' for r in REGIONS)
     guides = "".join(f'<li><a href="/guides/{g["slug"]}/">{esc(g["title"])}</a></li>' for g in GUIDES)
     body = f"""
-<div class="hero-img">
 <section class="hero"><div class="wrap">
  <p class="kicker">Consultant anthropologist · Darwin NT</p>
  <h1>Traditional Owner consultation and cultural heritage advice that gets Territory projects approved, and keeps them that way.</h1>
@@ -317,8 +316,7 @@ def home():
  <p><a class="btn big" href="/contact/">Get a scoped quote</a> <a class="btn ghost" href="tel:{PHONE_INTL}">Call {PHONE}</a></p>
  <p class="small">Servicing <a href="/regions/darwin-palmerston-rural/">Darwin, Palmerston and the rural area</a>, the <a href="/regions/top-end/">Top End</a>, and the <a href="/regions/northern-territory-kimberley/">wider NT and East Kimberley</a>.</p>
 </div></section>
-<section class="wrap services-home"><h2>Services</h2><div class="cards">{cards}</div></section>
-</div>
+<section class="hero-img services-home"><div class="wrap"><h2>Services</h2><div class="cards">{cards}</div></div></section>
 <section class="alt"><div class="wrap"><h2>Why proponents and consultancies use Connected2Country</h2><div class="cols">
  <div><h3>Over 20 years on Country</h3><p>More than two decades in NT Aboriginal land and heritage work, including senior anthropologist roles with the Northern Land Council and Tiwi Land Council. Helen knows how Traditional Owner decisions are made and how land councils, AAPA and the Heritage Branch assess what you submit.</p></div>
  <div><h3>Anthropology and archaeology</h3><p>Both disciplines in one practitioner: the intangible values and the right people to speak, plus the archaeological places the Heritage Act protects.</p></div>
