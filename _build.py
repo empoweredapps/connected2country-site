@@ -44,7 +44,7 @@ SERVICES = [
   faqs=[("Do I need an AAPA Authority Certificate for my development?","If your works could affect a sacred site, a certificate is the only way to be sure you are protected. In practice, most subdivisions, infrastructure projects and works near the coast, waterways, rock outcrops or significant trees in the Darwin region apply for one. AAPA charges fees based on project value; we can advise before you apply whether the application is worth it and how to scope it."),
         ("What is a restricted work area?","A restricted work area (RWA) is an area defined in an Authority Certificate within which particular works are prohibited or conditioned to protect a sacred site. Conditions commonly limit ground disturbance, vegetation clearing, access or vehicle movement. The site itself is confidential; the RWA is what the proponent must manage."),
         ("Can Connected2Country issue a sacred site clearance?","No. Only AAPA issues Authority Certificates. Connected2Country prepares you for the application, supports the custodian consultation and helps you comply with the conditions.")]),
- dict(slug="cultural-heritage-assessment", nav="Cultural heritage assessment",
+ dict(slug="cultural-heritage-assessment", nav="Cultural heritage assessment", img="heritage-plateau.jpg", img_alt="Landsat satellite image of dissected sandstone plateau country, rendered in ochre tones", credit="Imagery: NASA/USGS Landsat (public domain)",
   title="Cultural Heritage & Cultural Values Assessment Darwin NT",
   h1="Cultural heritage and cultural values assessments",
   desc="Ethnographic and cultural values assessments, Heritage Act 2011 advice and EIS culture and heritage chapters for projects in Darwin, the Top End and the NT, prepared by an anthropologist and archaeologist.",
@@ -136,7 +136,7 @@ REGIONS = [
         "Cultural heritage sections of CEMPs for civil contractors on NT Government and council contracts",
         "Welcome to Country and ceremony facilitation for project launches and openings",
         "Desktop and field heritage assessments for industrial land at East Arm, Berrimah and Winnellie and rural subdivisions in Litchfield"]),
- dict(slug="top-end", nav="Top End",
+ dict(slug="top-end", nav="Top End", img="region-top-end.jpg", img_alt="Landsat satellite image of Kakadu and the Arnhem Land escarpment, rendered in ochre tones", credit="Imagery: NASA/USGS Landsat (public domain)",
   title="Cultural Heritage & Traditional Owner Consultation Top End NT",
   h1="Traditional Owner consultation and cultural heritage across the Top End",
   desc="Anthropological services across the Top End: Katherine, Kakadu and West Arnhem, Arnhem Land, the Tiwi Islands, the Daly River and the Victoria River District. Land council experience, remote-capable, Wet-season aware.",
@@ -147,7 +147,7 @@ REGIONS = [
         "Cultural heritage and cultural values assessments for EIS projects",
         "Collection, archive and museum support for community keeping places, including the Tiwi Islands",
         "Cultural heritage management and inductions for remote construction programs"]),
- dict(slug="northern-territory-kimberley", nav="NT & East Kimberley",
+ dict(slug="northern-territory-kimberley", nav="NT & East Kimberley", img="region-kimberley.jpg", img_alt="Landsat 9 satellite image of the Kimberley coast, Western Australia", credit="Imagery: NASA/USGS Landsat 9 (public domain)",
   title="Anthropologist for the Northern Territory & East Kimberley WA",
   h1="Anthropological services across the Northern Territory and into the East Kimberley",
   desc="Consultant anthropologist available Territory-wide, including Central Australia, and across the border into the East Kimberley of Western Australia: Kununurra, Wyndham, Lake Argyle and Halls Creek. Aboriginal Heritage Act 1972 (WA) and NT frameworks.",
@@ -246,7 +246,7 @@ def layout(path, title, desc, body, extra_ld=None):
 <meta name="twitter:card" content="summary_large_image">
 <meta name="geo.region" content="AU-NT"><meta name="geo.placename" content="Darwin">
 <link rel="icon" href="/assets/favicon.png" type="image/png">
-<link rel="stylesheet" href="/assets/style.css">
+<link rel="stylesheet" href="/assets/style.css">{'<link rel="preload" as="image" href="/assets/hero.jpg">' if path=='/' else ''}
 {''.join(ld(x) for x in lds)}
 </head>
 <body>
@@ -276,10 +276,14 @@ def layout(path, title, desc, body, extra_ld=None):
   <div><h3>Regions</h3><ul>{reg_links}</ul><h3>More</h3><ul><li><a href="/guides/">Guides</a></li><li><a href="/about/">About Helen Haritos</a></li><li><a href="/contact/">Contact</a></li></ul></div>
  </div>
  <div class="wrap fine"><p>Connected2Country acknowledges the Larrakia people, Traditional Owners of the Darwin region, and all Traditional Owners of the Country on which we work, and pays respect to Elders past and present.</p>
- <p>Helen Maria Haritos trading as Connected2Country, ABN {ABN}. © {BRAND} {TODAY[:4]}.</p></div>
+ <p>Helen Maria Haritos trading as Connected2Country, ABN {ABN}. © {BRAND} {TODAY[:4]}. Satellite imagery courtesy NASA/USGS Landsat and the International Space Station (public domain).</p></div>
 </footer>
 </body>
 </html>"""
+
+def banner(d):
+    if not d.get("img"): return ""
+    return f'<figure class="banner"><img src="/assets/{d["img"]}" alt="{esc(d["img_alt"])}" width="1400" height="560" loading="lazy"><figcaption>{esc(d["credit"])}</figcaption></figure>'
 
 def cta(text="Talk to Helen about your project"):
     return f'<div class="cta"><p>{esc(text)}</p><a class="btn big" href="/contact/">Get a scoped quote</a> <a class="btn ghost" href="tel:{PHONE_INTL}">Call {PHONE}</a></div>'
@@ -305,7 +309,7 @@ def home():
     regs = "".join(f'<a class="card" href="/regions/{r["slug"]}/"><h3>{esc(r["nav"])}</h3><p>{esc(r["places"].split(",")[0])} and surrounds</p></a>' for r in REGIONS)
     guides = "".join(f'<li><a href="/guides/{g["slug"]}/">{esc(g["title"])}</a></li>' for g in GUIDES)
     body = f"""
-<section class="hero"><div class="wrap">
+<section class="hero hero-img"><div class="wrap">
  <p class="kicker">Consultant anthropologist · Darwin NT</p>
  <h1>Traditional Owner consultation and cultural heritage advice that gets Territory projects approved, and keeps them that way.</h1>
  <p class="lead">Connected2Country is the practice of Helen Haritos, an anthropologist and archaeologist with over 20 years in Aboriginal land, heritage and native title work in the NT. Traditional Owner consultation, AAPA Authority Certificate support, cultural heritage assessment, management plans, native title research and responsible use of AI in heritage work.</p>
@@ -342,7 +346,7 @@ def service(s):
     svc_ld={"@context":"https://schema.org","@type":"Service","name":s["h1"],"serviceType":s["nav"],"description":s["desc"],"provider":{"@id":BASE+"/#org"},"areaServed":AREAS,"url":BASE+path}
     regs=" · ".join(f'<a href="/regions/{r["slug"]}/">{esc(r["nav"])}</a>' for r in REGIONS)
     body=f"""{ch}
-<section class="wrap"><h1>{esc(s['h1'])}</h1><p class="lead">{esc(s['intro'])}</p>
+<section class="wrap"><h1>{esc(s['h1'])}</h1><p class="lead">{esc(s['intro'])}</p>{banner(s)}
 <h2>What is included</h2><ul class="ticks">{''.join(f'<li>{esc(b)}</li>' for b in s['bullets'])}</ul>
 <h2>Who it is for</h2><p>{esc(s['who'])}</p>
 <h2>Pricing</h2><p>{esc(s['pricing'])}</p>
@@ -364,7 +368,7 @@ def region(r):
     ch,cl=crumbs([("Home","/"),("Regions","/regions/"),(r["nav"],path)])
     svcs="".join(f'<li><a href="/services/{s["slug"]}/">{esc(s["h1"])}</a></li>' for s in SERVICES)
     body=f"""{ch}
-<section class="wrap"><h1>{esc(r['h1'])}</h1><p class="lead">{esc(r['body'])}</p>
+<section class="wrap"><h1>{esc(r['h1'])}</h1>{banner(r)}<p class="lead">{esc(r['body'])}</p>
 <h2>Areas covered</h2><p>{esc(r['places'])}</p>
 <h2>Typical work in this region</h2><ul class="ticks">{''.join(f'<li>{esc(w)}</li>' for w in r['work'])}</ul>
 <h2>Services available</h2><ul class="list">{svcs}</ul></section>
@@ -450,7 +454,7 @@ def contact():
 
 def statics():
     os.makedirs(os.path.join(OUT,"assets"),exist_ok=True)
-    for f in ("style.css","logo.png","favicon.png","og.png","helen.jpg"): shutil.copy("assets/"+f, os.path.join(OUT,"assets",f))
+    for f in ("style.css","logo.png","favicon.png","og.png","helen.jpg","hero.jpg","region-top-end.jpg","region-kimberley.jpg","heritage-plateau.jpg"): shutil.copy("assets/"+f, os.path.join(OUT,"assets",f))
     shutil.copy("contact.php", os.path.join(OUT,"contact.php")); shutil.copy("htaccess", os.path.join(OUT,".htaccess"))
     sm='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+"".join(
         f'<url><loc>{BASE}{p}</loc><lastmod>{TODAY}</lastmod><priority>{pr}</priority></url>\n' for p,pr in pages)+'</urlset>\n'
