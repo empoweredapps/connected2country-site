@@ -83,6 +83,8 @@ footer a{color:#bfe8cd;text-decoration:none}footer a:hover{text-decoration:under
 @media(max-width:640px){.portrait{float:none;display:block;margin:0 auto 16px;width:180px;height:180px}}
 
 .hero-img{background:linear-gradient(90deg,rgba(251,247,240,.80) 0%,rgba(251,247,240,.45) 50%,rgba(251,247,240,0) 100%),url(/assets/hero.jpg) center/cover no-repeat}
+.hero-img .hero{background:none}
+.services-home{padding-bottom:50px}.services-home .card{background:rgba(255,255,255,.93)}
 .banner{margin:18px 0 8px}.banner img{display:block;width:100%;height:auto;border-radius:8px;aspect-ratio:1400/560;object-fit:cover}
 .banner figcaption{font-size:.75rem;color:var(--mute);margin-top:4px}
 .hero-img .lead,.hero-img .small{color:var(--ink)}
