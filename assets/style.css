@@ -82,6 +82,6 @@ footer a{color:#bfe8cd;text-decoration:none}footer a:hover{text-decoration:under
 .portrait{float:right;width:220px;height:220px;border-radius:50%;object-fit:cover;margin:0 0 16px 24px;border:4px solid var(--alt);box-shadow:0 2px 10px rgba(72,48,24,.15)}
 @media(max-width:640px){.portrait{float:none;display:block;margin:0 auto 16px;width:180px;height:180px}}
 
-.hero-img{background:linear-gradient(90deg,rgba(251,247,240,.96) 0%,rgba(251,247,240,.88) 55%,rgba(251,247,240,.55) 100%),url(/assets/hero.jpg) center/cover no-repeat}
+.hero-img{background:linear-gradient(90deg,rgba(251,247,240,.90) 0%,rgba(251,247,240,.72) 50%,rgba(251,247,240,.18) 100%),url(/assets/hero.jpg) center/cover no-repeat}
 .banner{margin:18px 0 8px}.banner img{display:block;width:100%;height:auto;border-radius:8px;aspect-ratio:1400/560;object-fit:cover}
 .banner figcaption{font-size:.75rem;color:var(--mute);margin-top:4px}
