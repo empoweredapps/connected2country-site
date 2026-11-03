@@ -1,7 +1,7 @@
 #!/bin/bash
 # cPanel cron: pull latest and copy built site into the connected2country.au docroot.
-REPO="$HOME/repositories/connected2country-site"
-DEST="$HOME/public_html/connected2country.au"
+REPO="/home11/mytriibc/repositories/connected2country-site"
+DEST="/home11/mytriibc/public_html/connected2country.au"
 LOG="$REPO/deploy.log"
 cd "$REPO" || exit 1
 git pull -q origin main >>"$LOG" 2>&1 || { echo "$(date) pull failed" >>"$LOG"; exit 1; }
