@@ -125,7 +125,7 @@ SERVICES = [
 ]
 
 REGIONS = [
- dict(slug="darwin-palmerston-rural", nav="Darwin, Palmerston & Rural",
+ dict(slug="darwin-palmerston-rural", nav="Darwin, Palmerston & Rural", img="region-darwin.jpg", img_alt="Satellite image of the Greater Darwin region: Darwin, the harbour, Palmerston, the rural area and the Adelaide River", credit="Imagery: Digital Earth Australia GeoMAD 2024, Geoscience Australia (CC BY 4.0); Landsat 8/9 data courtesy USGS",
   title="Cultural Heritage Consultant Darwin, Palmerston & Rural Area NT",
   h1="Traditional Owner consultation and cultural heritage in Darwin, Palmerston and the rural area",
   desc="Darwin-based anthropologist for Traditional Owner consultation, AAPA Authority Certificate support and cultural heritage assessment across Darwin, Palmerston, Litchfield and the rural area on Larrakia and neighbouring country.",
@@ -276,7 +276,7 @@ def layout(path, title, desc, body, extra_ld=None):
   <div><h3>Regions</h3><ul>{reg_links}</ul><h3>More</h3><ul><li><a href="/guides/">Guides</a></li><li><a href="/about/">About Helen Haritos</a></li><li><a href="/contact/">Contact</a></li></ul></div>
  </div>
  <div class="wrap fine"><p>Connected2Country acknowledges the Larrakia people, Traditional Owners of the Darwin region, and all Traditional Owners of the Country on which we work, and pays respect to Elders past and present.</p>
- <p>Helen Maria Haritos trading as Connected2Country, ABN {ABN}. © {BRAND} {TODAY[:4]}. Satellite imagery courtesy NASA/USGS Landsat and the International Space Station (public domain).</p></div>
+ <p>Helen Maria Haritos trading as Connected2Country, ABN {ABN}. © {BRAND} {TODAY[:4]}. Satellite imagery courtesy NASA/USGS Landsat, the International Space Station (public domain) and Digital Earth Australia, Geoscience Australia (CC BY 4.0).</p></div>
 </footer>
 </body>
 </html>"""
@@ -454,7 +454,7 @@ def contact():
 
 def statics():
     os.makedirs(os.path.join(OUT,"assets"),exist_ok=True)
-    for f in ("style.css","logo.png","favicon.png","og.png","helen.jpg","hero.jpg","region-top-end.jpg","region-kimberley.jpg","heritage-plateau.jpg"): shutil.copy("assets/"+f, os.path.join(OUT,"assets",f))
+    for f in ("style.css","logo.png","favicon.png","og.png","helen.jpg","hero.jpg","region-top-end.jpg","region-kimberley.jpg","heritage-plateau.jpg","region-darwin.jpg"): shutil.copy("assets/"+f, os.path.join(OUT,"assets",f))
     shutil.copy("contact.php", os.path.join(OUT,"contact.php")); shutil.copy("htaccess", os.path.join(OUT,".htaccess"))
     sm='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+"".join(
         f'<url><loc>{BASE}{p}</loc><lastmod>{TODAY}</lastmod><priority>{pr}</priority></url>\n' for p,pr in pages)+'</urlset>\n'
