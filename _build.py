@@ -16,7 +16,7 @@ SERVICES = [
   title="Traditional Owner Consultation Darwin NT | Anthropologist-led",
   h1="Traditional Owner and Native Title holder consultation",
   desc="Anthropologist-led consultation with Larrakia and other Traditional Owners for developments in Darwin, Palmerston and the Top End. Right people, proper process, defensible consent records for your approval.",
-  intro="Most heritage, sacred site, planning and environmental approvals in the Territory come back to the same question: have the right Traditional Owners been asked, properly, and is there a record of what they said? I work out who speaks for the Country in question, set up a process that suits them rather than the project program, run the meetings and site visits, and write it up in a form that AAPA, the land councils, the Heritage Branch and lawyers will accept.",
+  intro="Most heritage, sacred site, planning and environmental approvals in the Territory come back to the same question: have the right Traditional Owners been asked, properly, and is there a record of what they said? C2C works out who speaks for the Country in question, sets up a process that suits them rather than the project program, runs the meetings and site visits, and writes it up in a form that AAPA, the land councils, the Heritage Branch and lawyers will accept.",
   bullets=["Identification of Traditional Owners, custodians and Native Title holders for the project area, drawing on land council, AAPA, Native Title and published anthropological records",
            "Consultation design: who, where, in what order, with what information, and how consent or objection is recorded",
            "Facilitation of meetings, on-Country site visits and family-group discussions, with interpreters and cultural advisers where needed",
@@ -32,7 +32,7 @@ SERVICES = [
   title="AAPA Authority Certificate Support & Sacred Site Advice NT",
   h1="AAPA Authority Certificate support and sacred site advice",
   desc="Help obtaining and complying with Aboriginal Areas Protection Authority (AAPA) Authority Certificates in the NT: applications, custodian consultation, restricted work area interpretation and construction compliance.",
-  intro="If your works could affect a sacred site, an Authority Certificate from AAPA is the only thing that protects you under the Sacred Sites Act. I have been on both sides of these: on sacred site surveys with AAPA and custodians while at the land councils, and helping proponents apply, make sense of the conditions and keep the site crew inside them.",
+  intro="If your works could affect a sacred site, an Authority Certificate from AAPA is the only thing that protects you under the Sacred Sites Act. Helen has been on both sides of these: on sacred site surveys with AAPA and custodians while at the land councils, and now helping proponents apply, make sense of the conditions and keep the site crew inside them.",
   bullets=["Pre-application advice: whether a certificate is needed, what area to apply over and how to describe the works to avoid re-applications",
            "Desktop review of AAPA register abstracts, previous certificates and anthropological literature for the project area",
            "Support to custodian consultation and sacred site surveys, including attendance on Country",
@@ -48,7 +48,7 @@ SERVICES = [
   title="Cultural Heritage & Cultural Values Assessment Darwin NT",
   h1="Cultural heritage and cultural values assessments",
   desc="Ethnographic and cultural values assessments, Heritage Act 2011 advice and EIS culture and heritage chapters for projects in Darwin, the Top End and the NT, prepared by an anthropologist and archaeologist.",
-  intro="Cultural heritage is not just the archaeology. Places carry story, kinship, ecological knowledge and living use that never show up in a shovel test. I assess those values with the people who hold them, alongside the archaeological places the Heritage Act protects, and write it up so planners, EIS assessors and, if it comes to it, courts can use it.",
+  intro="Cultural heritage is not just the archaeology. Places carry story, kinship, ecological knowledge and living use that never show up in a shovel test. C2C assesses those values with the people who hold them, alongside the archaeological places the Heritage Act protects, and writes it up so planners, EIS assessors and, if it comes to it, courts can use it.",
   bullets=["Desktop cultural heritage assessments: register searches, literature review, previous surveys and constraints mapping",
            "Ethnographic and cultural values assessments with Traditional Owners, including intangible values, story, kinship and ecological knowledge",
            "Archaeological survey coordination and field recording, with specialist archaeologists engaged for larger programs",
@@ -64,7 +64,7 @@ SERVICES = [
   title="Cultural Heritage Management Plans & CEMP Heritage Sections NT",
   h1="Cultural Heritage Management Plans and CEMP heritage sections",
   desc="Project-specific Cultural Heritage Management Plans (CHMPs) and the cultural heritage sections of Construction Environmental Management Plans for NT civil and development projects, with inductions, monitoring and inspections.",
-  intro="Getting the approval is one thing; living with its conditions for two years of construction is another. I write heritage management plans that a site supervisor can actually follow, then do the inductions, monitoring and inspections that show the conditions were met.",
+  intro="Getting the approval is one thing; living with its conditions for two years of construction is another. C2C writes heritage management plans that a site supervisor can actually follow, then does the inductions, monitoring and inspections that show the conditions were met.",
   bullets=["Cultural Heritage Management Plans tied to Authority Certificate conditions, Heritage Act approvals and Traditional Owner agreements",
            "Cultural heritage sections and procedures for Construction Environmental Management Plans",
            "Unexpected finds and ancestral remains procedures",
@@ -80,7 +80,7 @@ SERVICES = [
   title="Anthropological Research, Native Title & Expert Reports NT",
   h1="Anthropological research, native title support and expert reports",
   desc="Consultant anthropologist for native title and land claim research, genealogies, connection reports, land council and ALRA matters and expert reports in the Northern Territory and East Kimberley.",
-  intro="I spent more than a decade as a regional and then senior anthropologist with the Northern Land Council, two years with the Tiwi Land Council, and before that worked in the NT Government unit that handled exploration and mining on Aboriginal land. I also did the ANU native title research placement with Julie Finlayson and Nicholas Peterson. That is the background I bring to research briefs from land councils, Aboriginal corporations, lawyers and government.",
+  intro="Helen spent more than a decade as a regional and then senior anthropologist with the Northern Land Council, two years with the Tiwi Land Council, and before that worked in the NT Government unit that handled exploration and mining on Aboriginal land. She also did the ANU native title research placement with Julie Finlayson and Nicholas Peterson. That is the background C2C brings to research briefs from land councils, Aboriginal corporations, lawyers and government.",
   bullets=["Native title connection research, genealogies and claim group descriptions",
            "Land claim and Aboriginal Land Rights (NT) Act 1976 research, including section 19 lease and consent processes",
            "Independent anthropological reports and peer reviews for lawyers, land councils and tribunals",
@@ -96,7 +96,7 @@ SERVICES = [
   title="Cultural Awareness Training & Heritage Inductions Darwin NT",
   h1="Cultural awareness training, heritage inductions and ceremony facilitation",
   desc="Project-specific cultural awareness sessions, sacred site and heritage inductions for construction crews, and facilitation of Welcome to Country and smoking ceremonies with Traditional Owners in Darwin and the Top End.",
-  intro="In my experience, heritage incidents on construction sites are rarely malicious. Somebody did not know the buffer was there, or what the certificate condition meant for their excavator. A half-day induction built around the actual project, its Authority Certificate and the people whose Country it is on fixes most of that, and starts the relationship with Traditional Owners on the right foot.",
+  intro="Heritage incidents on construction sites are rarely malicious. Somebody did not know the buffer was there, or what the certificate condition meant for their excavator. A half-day induction built around the actual project, its Authority Certificate and the people whose Country it is on fixes most of that, and starts the relationship with Traditional Owners on the right foot.",
   bullets=["Project-specific cultural heritage and sacred site inductions for site crews, delivered on site or online",
            "Cultural awareness sessions for project teams, boards and government staff, grounded in the Country the project is on",
            "Facilitation of Welcome to Country, smoking ceremonies and site openings with the appropriate Traditional Owners, including payments and logistics",
@@ -110,7 +110,7 @@ SERVICES = [
   title="AI & Digital Services for Cultural Heritage | Indigenous Data Sovereignty NT",
   h1="AI and digital services for cultural heritage",
   desc="Responsible use of AI and digital tools in cultural heritage: AI-assisted desktop assessments and research, secure cultural knowledge recording and archives, and Indigenous Data Sovereignty advice for Traditional Owner groups and proponents in the NT.",
-  intro="I use AI tools for the desktop side of heritage work: reading registers and old reports, drafting from field notes, keeping registers current. It makes that part faster and cheaper. It does not replace going on Country or talking to people, and it raises real questions about where cultural knowledge ends up. I help Traditional Owner organisations set the rules for that, and help proponents and consultancies use the tools without embarrassing themselves.",
+  intro="C2C uses AI tools for the desktop side of heritage work: reading registers and old reports, drafting from field notes, keeping registers current. It makes that part faster and cheaper. It does not replace going on Country or talking to people, and it raises real questions about where cultural knowledge ends up. C2C helps Traditional Owner organisations set the rules for that, and helps proponents and consultancies use the tools without getting it wrong.",
   bullets=["AI-assisted desktop assessments: rapid review of registers, reports, literature and archives, verified by the anthropologist before anything is relied on",
            "Digital recording and archiving of cultural knowledge, oral histories and collections, with access controls set by custodians",
            "Indigenous Data Sovereignty and AI governance advice for land councils, Aboriginal corporations and ranger groups, aligned with CARE principles and Maiam nayri Wingara guidance",
@@ -130,7 +130,7 @@ REGIONS = [
   h1="Traditional Owner consultation and cultural heritage in Darwin, Palmerston and the rural area",
   desc="Darwin-based anthropologist for Traditional Owner consultation, AAPA Authority Certificate support and cultural heritage assessment across Darwin, Palmerston, Litchfield and the rural area on Larrakia and neighbouring country.",
   places="Darwin city and northern suburbs, Lee Point, Casuarina and the coastal reserves, East Arm, Berrimah and Winnellie, Darwin International Airport and RAAF Base precincts, Palmerston and its growth suburbs, Holtze, Howard Springs, Humpty Doo, Coolalinga, Berry Springs, Noonamah, Virginia, Bees Creek, the Litchfield municipality, Cox Peninsula, Dundee and the Finniss River country.",
-  body="I have lived in Darwin all my life and worked with Larrakia and neighbouring Traditional Owners through the Northern Land Council, the NT Government and now my own practice. Being local matters more than it sounds: meetings happen when people are available rather than when a consultant can get a flight, and I know how Darwin approvals, AAPA, the Heritage Branch and the Development Consent Authority actually run.",
+  body="Helen has lived in Darwin all her life and has worked with Larrakia and neighbouring Traditional Owners through the Northern Land Council, the NT Government and now C2C. Being local matters more than it sounds: meetings happen when people are available rather than when a consultant can get a flight, and C2C knows how Darwin approvals, AAPA, the Heritage Branch and the Development Consent Authority actually run.",
   work=["Traditional Owner consultation for residential subdivisions and master-planned developments in the northern suburbs and Palmerston growth areas",
         "AAPA Authority Certificate support for infrastructure, utility and Defence precinct works",
         "Cultural heritage sections of CEMPs for civil contractors on NT Government and council contracts",
@@ -141,7 +141,7 @@ REGIONS = [
   h1="Traditional Owner consultation and cultural heritage across the Top End",
   desc="Anthropological services across the Top End: Katherine, Kakadu and West Arnhem, Arnhem Land, the Tiwi Islands, the Daly River and the Victoria River District. Land council experience, remote-capable, Wet-season aware.",
   places="Katherine and the Katherine River region, Pine Creek and Adelaide River, Kakadu and Jabiru, West Arnhem including Gunbalanya and Maningrida, East Arnhem including Nhulunbuy and Groote Eylandt, the Tiwi Islands (Wurrumiyanga, Pirlangimpi and Milikapiti), the Daly River and Wadeye, Batchelor and Litchfield, and the Victoria River District to Timber Creek.",
-  body="Most of my land council years were spent across the Top End: site surveys, land claims, mining and economic development consultations, and section 19 lease negotiations under the Land Rights Act, including two years as senior anthropologist with the Tiwi Land Council. I know the land council processes from the inside, I understand how decisions get made in remote communities, and I plan fieldwork around ceremony, sorry business and the Wet.",
+  body="Most of Helen's land council years were spent across the Top End: site surveys, land claims, mining and economic development consultations, and section 19 lease negotiations under the Land Rights Act, including two years as senior anthropologist with the Tiwi Land Council. C2C knows the land council processes from the inside, understands how decisions get made in remote communities, and plans fieldwork around ceremony, sorry business and the Wet.",
   work=["Sacred site surveys and Traditional Owner consultation for mining, energy, infrastructure and tourism proposals on Aboriginal land",
         "Section 19 lease and land use agreement consultations under the Aboriginal Land Rights (Northern Territory) Act 1976",
         "Cultural heritage and cultural values assessments for EIS projects",
@@ -152,7 +152,7 @@ REGIONS = [
   h1="Anthropological services across the Northern Territory and into the East Kimberley",
   desc="Consultant anthropologist available Territory-wide, including Central Australia, and across the border into the East Kimberley of Western Australia: Kununurra, Wyndham, Lake Argyle and Halls Creek. Aboriginal Heritage Act 1972 (WA) and NT frameworks.",
   places="The whole of the Northern Territory including Tennant Creek, the Barkly, Alice Springs and Central Australia, and the East Kimberley region of Western Australia: Kununurra, Wyndham, Lake Argyle, the Ord River irrigation area, Halls Creek and the Great Northern Highway corridor.",
-  body="Beyond the Top End I work through the relevant land council or Native Title body and local Traditional Owner organisations, and bring in regional specialists where that serves the client better. I lived and worked in Wyndham for two years, and I am aware that heritage over the border runs under Western Australia's Aboriginal Heritage Act 1972 (as amended in 2023), with its section 18 consents, the ACHIS register and the state Aboriginal Heritage Survey Program, rather than the NT's AAPA and Heritage Act system.",
+  body="Beyond the Top End, C2C works through the relevant land council or Native Title body and local Traditional Owner organisations, and brings in regional specialists where that serves the client better. Helen lived and worked in Wyndham for two years, and C2C is aware that heritage over the border runs under Western Australia's Aboriginal Heritage Act 1972 (as amended in 2023), with its section 18 consents, the ACHIS register and the state Aboriginal Heritage Survey Program, rather than the NT's AAPA and Heritage Act system.",
   work=["Native title research and connection reports",
         "Anthropological input to heritage surveys and section 18 applications in the East Kimberley",
         "Traditional Owner consultation for cross-border infrastructure, agriculture and resources projects",
@@ -285,7 +285,7 @@ def banner(d):
     if not d.get("img"): return ""
     return f'<figure class="banner"><img src="/assets/{d["img"]}" alt="{esc(d["img_alt"])}" width="1400" height="560" loading="lazy"><figcaption>{esc(d["credit"])}</figcaption></figure>'
 
-def cta(text="Talk to me about your project"):
+def cta(text="Talk to C2C about your project"):
     return f'<div class="cta"><p>{esc(text)}</p><a class="btn big" href="/contact/">Get a scoped quote</a> <a class="btn ghost" href="tel:{PHONE_INTL}">Call {PHONE}</a></div>'
 def faq_html(faqs):
     return '<section class="wrap"><h2>Frequently asked questions</h2>'+"".join(f'<details><summary>{esc(q)}</summary><p>{esc(a)}</p></details>' for q,a in faqs)+'</section>'
@@ -313,23 +313,23 @@ def home():
 <section class="hero"><div class="wrap">
  <p class="kicker">Consultant anthropologist · Darwin NT</p>
  <h1>Traditional Owner consultation and cultural heritage advice for projects in the Top End.</h1>
- <p class="lead">I am Helen Haritos, an anthropologist and archaeologist of Aboriginal descent. I spent most of the last twenty years working for Traditional Owners inside Northern Territory land councils; now I help developers, contractors, consultancies and Aboriginal organisations get the consultation, sacred site and heritage side of their projects right. Connected2Country is my practice.</p>
+ <p class="lead">Connected2Country (C2C) is the practice of Helen Haritos, an anthropologist and archaeologist of Aboriginal descent who spent most of the last twenty years working for Traditional Owners inside Northern Territory land councils. C2C helps developers, contractors, consultancies and Aboriginal organisations get the consultation, sacred site and heritage side of their projects right.</p>
  <p><a class="btn big" href="/contact/">Get a scoped quote</a> <a class="btn ghost" href="tel:{PHONE_INTL}">Call {PHONE}</a></p>
  <p class="small">Servicing <a href="/regions/darwin-palmerston-rural/">Darwin, Palmerston and the rural area</a>, the <a href="/regions/top-end/">Top End</a>, and the <a href="/regions/northern-territory-kimberley/">wider NT and East Kimberley</a>.</p>
 </div></section>
 <section class="services-home"><div class="wrap"><h2>Services</h2><div class="cards">{cards}</div></div></section>
 </div>
 <section class="alt"><div class="wrap"><h2>What you get</h2><div class="cols">
- <div><h3>Someone who has sat on the other side of the table</h3><p>Years inside the Northern Land Council and Tiwi Land Council mean I know how Traditional Owner decisions get made, and what land councils, AAPA and the Heritage Branch are looking for when your submission lands on their desk.</p></div>
- <div><h3>Anthropology and archaeology together</h3><p>Working out who speaks for Country and what it means to them is anthropology; the artefact scatters and shell middens the Heritage Act protects are archaeology. I am trained in both, so you are not coordinating two consultants.</p></div>
- <div><h3>Local, and here for the long haul</h3><p>I live in Darwin. Meetings happen when Traditional Owners can make them, not when a fly-in consultant is in town, and I am still around when the project hits a snag in year two.</p></div>
- <div><h3>Honest about what AI can and cannot do</h3><p>I use it for the desktop grind so the budget goes on fieldwork and people, and I am clear with clients and Traditional Owners about where cultural information does and does not go.</p></div>
+ <div><h3>Someone who has sat on the other side of the table</h3><p>Years inside the Northern Land Council and Tiwi Land Council mean C2C knows how Traditional Owner decisions get made, and what land councils, AAPA and the Heritage Branch are looking for when your submission lands on their desk.</p></div>
+ <div><h3>Anthropology and archaeology together</h3><p>Working out who speaks for Country and what it means to them is anthropology; the artefact scatters and shell middens the Heritage Act protects are archaeology. Helen is trained in both, so you are not coordinating two consultants.</p></div>
+ <div><h3>Local, and here for the long haul</h3><p>C2C is based in Darwin. Meetings happen when Traditional Owners can make them, not when a fly-in consultant is in town, and C2C is still around when the project hits a snag in year two.</p></div>
+ <div><h3>Honest about what AI can and cannot do</h3><p>C2C uses it for the desktop grind so the budget goes on fieldwork and people, and is clear with clients and Traditional Owners about where cultural information does and does not go.</p></div>
 </div></div></section>
 <section class="wrap"><h2>Where we work</h2><div class="cards">{regs}</div></section>
 <section class="alt"><div class="wrap"><h2>Who we work with</h2><p class="chips"><span>Developers</span><span>Civil contractors</span><span>Heritage &amp; environmental consultancies</span><span>NT Government</span><span>Defence</span><span>Land councils</span><span>Aboriginal corporations</span><span>Law firms</span><span>Museums &amp; keeping places</span><span>Resources &amp; energy</span></p>
 <p class="small">Connected2Country works alongside <a href="https://bellenviro.au/" rel="noopener">Bell Enviro</a> to deliver integrated environment and heritage approvals and management plans for civil projects.</p></div></section>
 <section class="wrap"><h2>Guides</h2><ul class="list">{guides}</ul></section>
-{cta("Tell me where the project is and which approval you are working towards. I will come back with a scope and a price, usually within two working days.")}
+{cta("Tell C2C where the project is and which approval you are working towards, and you will get a scope and a price back, usually within two working days.")}
 """
     write("/", layout("/", "Anthropologist Darwin NT | Traditional Owner Consultation, Sacred Sites & Cultural Heritage | Connected2Country",
         "Darwin-based consultant anthropologist for Traditional Owner consultation, AAPA Authority Certificate support, cultural heritage assessment, heritage management plans and native title research across the NT and East Kimberley.", body))
@@ -338,7 +338,7 @@ def home():
 def services_index():
     cards = "".join(f'<a class="card" href="/services/{s["slug"]}/"><h3>{esc(s["h1"])}</h3><p>{esc(s["desc"])}</p></a>' for s in SERVICES)
     ch,cl = crumbs([("Home","/"),("Services","/services/")])
-    body = f'{ch}<section class="wrap"><h1>Anthropology and cultural heritage services</h1><p class="lead">Everything here is quoted before it starts and done by me. If you are not sure which one you need, the contact page is the quickest way to find out.</p><div class="cards">{cards}</div></section>{cta()}'
+    body = f'{ch}<section class="wrap"><h1>Anthropology and cultural heritage services</h1><p class="lead">Everything here is quoted before it starts and done by Helen. If you are not sure which one you need, the contact page is the quickest way to find out.</p><div class="cards">{cards}</div></section>{cta()}'
     write("/services/", layout("/services/","Cultural Heritage & Anthropology Services NT | Connected2Country","Traditional Owner consultation, AAPA certificates and sacred sites, cultural heritage assessment, management plans, native title research, inductions and AI and digital heritage services for the Northern Territory.", body,[cl]))
     pages.append(("/services/",0.8))
 
@@ -361,7 +361,7 @@ def service(s):
 def regions_index():
     cards="".join(f'<a class="card" href="/regions/{r["slug"]}/"><h3>{esc(r["h1"])}</h3><p>{esc(r["desc"])}</p></a>' for r in REGIONS)
     ch,cl=crumbs([("Home","/"),("Regions","/regions/")])
-    body=f'{ch}<section class="wrap"><h1>Where Connected2Country works</h1><p class="lead">Darwin is home. Most of my work is in the Top End, and I travel across the Territory and into the East Kimberley when a job needs it.</p><div class="cards">{cards}</div></section>{cta()}'
+    body=f'{ch}<section class="wrap"><h1>Where Connected2Country works</h1><p class="lead">Darwin is home. Most of the work is in the Top End, with travel across the Territory and into the East Kimberley when a job needs it.</p><div class="cards">{cards}</div></section>{cta()}'
     write("/regions/", layout("/regions/","Service Regions | Darwin, Top End, NT & East Kimberley | Connected2Country","Anthropological and cultural heritage services for Darwin, Palmerston and the rural area, the Top End, the wider Northern Territory and the East Kimberley.", body,[cl]))
     pages.append(("/regions/",0.7))
 
@@ -381,7 +381,7 @@ def region(r):
 def guides_index():
     items="".join(f'<a class="card" href="/guides/{g["slug"]}/"><h3>{esc(g["title"])}</h3><p>{esc(g["desc"])}</p></a>' for g in GUIDES)
     ch,cl=crumbs([("Home","/"),("Guides","/guides/")])
-    body=f'{ch}<section class="wrap"><h1>Guides to cultural heritage in the Northern Territory</h1><p class="lead">The questions I get asked most, answered the way I would answer them on the phone.</p><div class="cards">{items}</div></section>{cta()}'
+    body=f'{ch}<section class="wrap"><h1>Guides to cultural heritage in the Northern Territory</h1><p class="lead">The questions C2C gets asked most, answered the way Helen would answer them on the phone.</p><div class="cards">{items}</div></section>{cta()}'
     write("/guides/", layout("/guides/","Cultural Heritage Guides for NT Projects | Connected2Country","Plain-English guides on AAPA Authority Certificates, Traditional Owner consultation, NT heritage laws and AI in cultural heritage work.", body,[cl]))
     pages.append(("/guides/",0.6))
 
@@ -403,7 +403,7 @@ def about():
             "memberOf":[{"@type":"Organization","name":"Australian Anthropological Society"},{"@type":"Organization","name":"American Anthropological Association"},{"@type":"Organization","name":"Archaeological and Anthropological Society of Victoria"},{"@type":"Organization","name":"World Archaeological Congress"}]}
     body=f"""{ch}
 <section class="wrap prose"><img class="portrait" src="/assets/helen.jpg" alt="Helen Haritos, Consultant Anthropologist, Connected2Country, in the field in the Northern Territory" width="600" height="600" loading="eager"><h1>About Connected2Country and Helen Haritos</h1>
-<p class="lead">I am an anthropologist and archaeologist of Aboriginal descent. I have lived in Darwin all my life, apart from two years in Wyndham in the East Kimberley, and for most of the last twenty years I worked for Traditional Owners inside Northern Territory land councils and government before setting up Connected2Country.</p>
+<p class="lead">Connected2Country (C2C) is the practice of Helen Haritos, an anthropologist and archaeologist of Aboriginal descent. Helen has lived in Darwin all her life, apart from two years in Wyndham in the East Kimberley, and for most of the last twenty years worked for Traditional Owners inside Northern Territory land councils and government before setting up C2C.</p>
 <h2>Experience</h2>
 <ul>
 <li><strong>Senior Anthropologist, Tiwi Land Council (2022–2024):</strong> engagement with Tiwi Islanders, section 19 Land Rights Act lease negotiations, formation of the Tiwi cultural committee, sacred site surveys with AAPA, curation of artefact collections, and a flora and fauna clearance survey at the Osprey crash site.</li>
@@ -419,10 +419,10 @@ def about():
 <ul><li>BA (Hons) Archaeology, Charles Darwin University</li><li>Graduate Diploma of Languages (Hellenic Studies) and Certificate of Arts (Hellenic Studies), Charles Darwin University</li><li>Native Title Guided Research Placement, ANU Centre for Native Title Anthropology, with Dr Julie Finlayson and Professor Nicholas Peterson</li><li>Introduction to Maritime Archaeology (AIMA/NAS)</li><li>Member, Australian Anthropological Society; American Anthropological Association; Archaeological and Anthropological Society of Victoria; World Archaeological Congress (Independent Scholar)</li></ul>
 <h2>Community</h2>
 <p>Chairperson of Friends of East Point Inc (2007–2019), Deputy President of University Women of Australia NT Branch (2004–2008), and long involvement with the Historical Society of the Northern Territory. Helen has also lived and worked in the East Kimberley.</p>
-<h2>How I work</h2>
-<p>It is a one-person practice and I do the work myself. On bigger programs I bring in archaeologists, interpreters, cultural advisers and GIS help I have worked with before, and I team up with <a href="https://bellenviro.au/" rel="noopener">Bell Enviro</a> when a project needs the environmental and heritage approvals handled together. I use AI for desktop research, drafting and record-keeping because it saves clients money; I do not use it as a substitute for going on Country or for my own judgement.</p>
-<p>I acknowledge the Larrakia people as Traditional Owners of the Darwin region, and the Traditional Owners of all the Country I work on.</p>
-</section>{cta("Not sure if I am the right fit? Ring me. Ten minutes usually sorts it out.")}"""
+<h2>How C2C works</h2>
+<p>C2C is a one-person practice and Helen does the work herself. On bigger programs she brings in archaeologists, interpreters, cultural advisers and GIS help she has worked with before, and C2C teams up with <a href="https://bellenviro.au/" rel="noopener">Bell Enviro</a> when a project needs the environmental and heritage approvals handled together. C2C uses AI for desktop research, drafting and record-keeping because it saves clients money, not as a substitute for going on Country or for professional judgement.</p>
+<p>C2C acknowledges the Larrakia people as Traditional Owners of the Darwin region, and the Traditional Owners of all the Country it works on.</p>
+</section>{cta("Not sure if C2C is the right fit? Ring Helen. Ten minutes usually sorts it out.")}"""
     write("/about/", layout("/about/","About Helen Haritos | Consultant Anthropologist & Archaeologist, Darwin NT","Helen Haritos is a Darwin-based anthropologist and archaeologist of Aboriginal descent with over 20 years in NT Aboriginal land and heritage work, now providing Traditional Owner consultation and cultural heritage services through Connected2Country.", body,[cl,person]))
     pages.append(("/about/",0.6))
 
@@ -431,7 +431,7 @@ def contact():
     body=f"""{ch}
 <section class="wrap two"><div>
 <h1>Contact Connected2Country</h1>
-<p class="lead">Tell me where the project is, which approval or condition you are working to, and any dates that matter. I will come back with a scope and a price, usually within two working days.</p>
+<p class="lead">Tell C2C where the project is, which approval or condition you are working to, and any dates that matter. Helen will come back with a scope and a price, usually within two working days.</p>
 <p><strong>Helen Haritos</strong>, Consultant Anthropologist<br><a href="tel:{PHONE_INTL}">{PHONE}</a><br><a href="mailto:{EMAIL}">{EMAIL}</a><br>Fannie Bay NT 0820<br>Servicing Darwin, Palmerston, the Top End, the NT and the East Kimberley</p>
 <p class="small">ABN {ABN}. Hours: Monday to Friday, 8:00am to 5:00pm ACST. Unexpected finds and incident support by phone.</p>
 </div>
@@ -442,7 +442,7 @@ def contact():
  <label>Phone<input name="phone" type="tel" maxlength="40"></label>
  <label>Service needed<select name="service">{''.join(f'<option>{esc(s["nav"])}</option>' for s in SERVICES)}<option>Not sure yet</option></select></label>
  <label>Project location<input name="location" maxlength="150" placeholder="e.g. Lee Point, Palmerston, Jabiru, Kununurra"></label>
- <label>Tell me about the project<textarea name="message" rows="6" required maxlength="4000"></textarea></label>
+ <label>Tell C2C about the project<textarea name="message" rows="6" required maxlength="4000"></textarea></label>
  <div class="hp"><label>Leave blank<input name="website" tabindex="-1" autocomplete="off"></label></div>
  <input type="hidden" name="ts" value="">
  <button class="btn big" type="submit">Send enquiry</button>
