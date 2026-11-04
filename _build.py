@@ -130,7 +130,7 @@ REGIONS = [
   h1="Traditional Owner consultation and cultural heritage in Darwin, Palmerston and the rural area",
   desc="Darwin-based anthropologist for Traditional Owner consultation, AAPA Authority Certificate support and cultural heritage assessment across Darwin, Palmerston, Litchfield and the rural area on Larrakia and neighbouring country.",
   places="Darwin city and northern suburbs, Lee Point, Casuarina and the coastal reserves, East Arm, Berrimah and Winnellie, Darwin International Airport and RAAF Base precincts, Palmerston and its growth suburbs, Holtze, Howard Springs, Humpty Doo, Coolalinga, Berry Springs, Noonamah, Virginia, Bees Creek, the Litchfield municipality, Cox Peninsula, Dundee and the Finniss River country.",
-  body="I have lived in Darwin most of my life and worked with Larrakia and neighbouring Traditional Owners through the Northern Land Council, the NT Government and now my own practice. Being local matters more than it sounds: meetings happen when people are available rather than when a consultant can get a flight, and I know how Darwin approvals, AAPA, the Heritage Branch and the Development Consent Authority actually run.",
+  body="I have lived in Darwin all my life and worked with Larrakia and neighbouring Traditional Owners through the Northern Land Council, the NT Government and now my own practice. Being local matters more than it sounds: meetings happen when people are available rather than when a consultant can get a flight, and I know how Darwin approvals, AAPA, the Heritage Branch and the Development Consent Authority actually run.",
   work=["Traditional Owner consultation for residential subdivisions and master-planned developments in the northern suburbs and Palmerston growth areas",
         "AAPA Authority Certificate support for infrastructure, utility and Defence precinct works",
         "Cultural heritage sections of CEMPs for civil contractors on NT Government and council contracts",
@@ -403,7 +403,7 @@ def about():
             "memberOf":[{"@type":"Organization","name":"Australian Anthropological Society"},{"@type":"Organization","name":"American Anthropological Association"},{"@type":"Organization","name":"Archaeological and Anthropological Society of Victoria"},{"@type":"Organization","name":"World Archaeological Congress"}]}
     body=f"""{ch}
 <section class="wrap prose"><img class="portrait" src="/assets/helen.jpg" alt="Helen Haritos, Consultant Anthropologist, Connected2Country, in the field in the Northern Territory" width="600" height="600" loading="eager"><h1>About Connected2Country and Helen Haritos</h1>
-<p class="lead">I am an anthropologist and archaeologist of Aboriginal descent. I have lived in Darwin for most of my life, and for most of the last twenty years I worked for Traditional Owners inside Northern Territory land councils and government before setting up Connected2Country.</p>
+<p class="lead">I am an anthropologist and archaeologist of Aboriginal descent. I have lived in Darwin all my life, and for most of the last twenty years I worked for Traditional Owners inside Northern Territory land councils and government before setting up Connected2Country.</p>
 <h2>Experience</h2>
 <ul>
 <li><strong>Senior Anthropologist, Tiwi Land Council (2022–2024):</strong> engagement with Tiwi Islanders, section 19 Land Rights Act lease negotiations, formation of the Tiwi cultural committee, sacred site surveys with AAPA, curation of artefact collections, and a flora and fauna clearance survey at the Osprey crash site.</li>
