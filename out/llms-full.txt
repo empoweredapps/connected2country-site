@@ -35,7 +35,7 @@ Service regions in priority order: (1) Darwin, Palmerston and the Litchfield rur
 # Traditional Owner and Native Title holder consultation
 URL: https://connected2country.au/services/traditional-owner-consultation/
 
-Consultation with Traditional Owners and Native Title holders is the foundation of most heritage, sacred site, planning and environmental approvals in the Northern Territory. Connected2Country identifies the right people to speak for Country, designs a culturally appropriate process, runs meetings and on-Country visits, and records outcomes in a form regulators, land councils and lawyers accept.
+Most heritage, sacred site, planning and environmental approvals in the Territory come back to the same question: have the right Traditional Owners been asked, properly, and is there a record of what they said? I work out who speaks for the Country in question, set up a process that suits them rather than the project program, run the meetings and site visits, and write it up in a form that AAPA, the land councils, the Heritage Branch and lawyers will accept.
 
 Included:
 - Identification of Traditional Owners, custodians and Native Title holders for the project area, drawing on land council, AAPA, Native Title and published anthropological records
@@ -60,7 +60,7 @@ A: Allow six to twelve weeks for a typical Darwin development, longer for remote
 # AAPA Authority Certificate support and sacred site advice
 URL: https://connected2country.au/services/aapa-authority-certificate-sacred-sites/
 
-An Authority Certificate from the Aboriginal Areas Protection Authority is the only legal protection against prosecution under the Northern Territory Aboriginal Sacred Sites Act 1989. Connected2Country has worked on sacred site surveys with AAPA and custodians from both the land council and the proponent side, and helps proponents get the certificate, understand its conditions and stay compliant on site.
+If your works could affect a sacred site, an Authority Certificate from AAPA is the only thing that protects you under the Sacred Sites Act. I have been on both sides of these: on sacred site surveys with AAPA and custodians while at the land councils, and helping proponents apply, make sense of the conditions and keep the site crew inside them.
 
 Included:
 - Pre-application advice: whether a certificate is needed, what area to apply over and how to describe the works to avoid re-applications
@@ -85,7 +85,7 @@ A: No. Only AAPA issues Authority Certificates. Connected2Country prepares you f
 # Cultural heritage and cultural values assessments
 URL: https://connected2country.au/services/cultural-heritage-assessment/
 
-Cultural heritage is more than archaeological sites. Connected2Country assesses the intangible, living and historical values that Aboriginal people hold for a place, alongside the tangible heritage protected under the Heritage Act 2011 (NT), and presents them in a form that planners, assessors and courts can use.
+Cultural heritage is not just the archaeology. Places carry story, kinship, ecological knowledge and living use that never show up in a shovel test. I assess those values with the people who hold them, alongside the archaeological places the Heritage Act protects, and write it up so planners, EIS assessors and, if it comes to it, courts can use it.
 
 Included:
 - Desktop cultural heritage assessments: register searches, literature review, previous surveys and constraints mapping
@@ -110,7 +110,7 @@ A: Yes. Assessments are written to NT EPA environmental factor guidance for cult
 # Cultural Heritage Management Plans and CEMP heritage sections
 URL: https://connected2country.au/services/cultural-heritage-management-plans/
 
-Approvals come with conditions and the conditions have to be lived with for the life of the project. Connected2Country writes management plans that construction crews can actually follow, then provides the inductions, monitoring and inspections that show the conditions were met.
+Getting the approval is one thing; living with its conditions for two years of construction is another. I write heritage management plans that a site supervisor can actually follow, then do the inductions, monitoring and inspections that show the conditions were met.
 
 Included:
 - Cultural Heritage Management Plans tied to Authority Certificate conditions, Heritage Act approvals and Traditional Owner agreements
@@ -135,7 +135,7 @@ A: Yes. Connected2Country regularly provides the heritage component to environme
 # Anthropological research, native title support and expert reports
 URL: https://connected2country.au/services/anthropological-research-expert-reports/
 
-Over 20 years in Aboriginal land, heritage and native title work in the Northern Territory, including senior anthropologist roles with the Northern Land Council and the Tiwi Land Council, plus ANU-CNTA native title research training, underpin a research practice that land councils, Aboriginal corporations, lawyers and government can rely on.
+I spent more than a decade as a regional and then senior anthropologist with the Northern Land Council, two years with the Tiwi Land Council, and before that worked in the NT Government unit that handled exploration and mining on Aboriginal land. I also did the ANU native title research placement with Julie Finlayson and Nicholas Peterson. That is the background I bring to research briefs from land councils, Aboriginal corporations, lawyers and government.
 
 Included:
 - Native title connection research, genealogies and claim group descriptions
@@ -160,7 +160,7 @@ A: Restricted information stays with the people it belongs to. Reports distingui
 # Cultural awareness training, heritage inductions and ceremony facilitation
 URL: https://connected2country.au/services/cultural-awareness-inductions/
 
-Most heritage incidents on construction sites happen because somebody did not know. A half-day induction built around the actual project, its Authority Certificate and the people whose Country it is on prevents most of them, and sets the tone for the relationship with Traditional Owners.
+In my experience, heritage incidents on construction sites are rarely malicious. Somebody did not know the buffer was there, or what the certificate condition meant for their excavator. A half-day induction built around the actual project, its Authority Certificate and the people whose Country it is on fixes most of that, and starts the relationship with Traditional Owners on the right foot.
 
 Included:
 - Project-specific cultural heritage and sacred site inductions for site crews, delivered on site or online
@@ -182,7 +182,7 @@ A: No. A general course explains culture in the abstract. A project induction te
 # AI and digital services for cultural heritage
 URL: https://connected2country.au/services/ai-digital-cultural-heritage/
 
-AI is changing how heritage research, documentation and compliance are done. Connected2Country uses it to make desktop work faster and cheaper, while keeping the fieldwork, relationships and judgement with people, and helps Traditional Owner organisations set the rules for how their knowledge is recorded, stored and used.
+I use AI tools for the desktop side of heritage work: reading registers and old reports, drafting from field notes, keeping registers current. It makes that part faster and cheaper. It does not replace going on Country or talking to people, and it raises real questions about where cultural knowledge ends up. I help Traditional Owner organisations set the rules for that, and help proponents and consultancies use the tools without embarrassing themselves.
 
 Included:
 - AI-assisted desktop assessments: rapid review of registers, reports, literature and archives, verified by the anthropologist before anything is relied on
@@ -207,7 +207,7 @@ A: Only if the tool, the contract and the workflow are chosen for it. Public AI 
 # Traditional Owner consultation and cultural heritage in Darwin, Palmerston and the rural area
 URL: https://connected2country.au/regions/darwin-palmerston-rural/
 
-This is Connected2Country's home ground. Helen Haritos has lived in Darwin for decades and has worked with Larrakia and neighbouring Traditional Owners through the Northern Land Council, the NT Government and private practice. Being local means meetings can happen when Traditional Owners are available rather than when a fly-in consultant is, and that advice is grounded in how Darwin approvals, AAPA, the Heritage Branch and the Development Consent Authority actually work.
+I have lived in Darwin most of my life and worked with Larrakia and neighbouring Traditional Owners through the Northern Land Council, the NT Government and now my own practice. Being local matters more than it sounds: meetings happen when people are available rather than when a consultant can get a flight, and I know how Darwin approvals, AAPA, the Heritage Branch and the Development Consent Authority actually run.
 
 Areas: Darwin city and northern suburbs, Lee Point, Casuarina and the coastal reserves, East Arm, Berrimah and Winnellie, Darwin International Airport and RAAF Base precincts, Palmerston and its growth suburbs, Holtze, Howard Springs, Humpty Doo, Coolalinga, Berry Springs, Noonamah, Virginia, Bees Creek, the Litchfield municipality, Cox Peninsula, Dundee and the Finniss River country.
 
@@ -222,7 +222,7 @@ Typical work:
 # Traditional Owner consultation and cultural heritage across the Top End
 URL: https://connected2country.au/regions/top-end/
 
-Helen Haritos has over 20 years in Aboriginal land and heritage work in the Territory, including regional and senior anthropologist roles with the Northern Land Council and senior anthropologist with the Tiwi Land Council, working across the Top End on site surveys, land claims, mining and economic development consultations and Aboriginal Land Rights Act lease negotiations. That experience means Connected2Country knows the land council processes from the inside, understands how Traditional Owner decision-making works in remote communities and plans fieldwork around ceremony, sorry business and the Wet season.
+Most of my land council years were spent across the Top End: site surveys, land claims, mining and economic development consultations, and section 19 lease negotiations under the Land Rights Act, including two years as senior anthropologist with the Tiwi Land Council. I know the land council processes from the inside, I understand how decisions get made in remote communities, and I plan fieldwork around ceremony, sorry business and the Wet.
 
 Areas: Katherine and the Katherine River region, Pine Creek and Adelaide River, Kakadu and Jabiru, West Arnhem including Gunbalanya and Maningrida, East Arnhem including Nhulunbuy and Groote Eylandt, the Tiwi Islands (Wurrumiyanga, Pirlangimpi and Milikapiti), the Daly River and Wadeye, Batchelor and Litchfield, and the Victoria River District to Timber Creek.
 
@@ -237,7 +237,7 @@ Typical work:
 # Anthropological services across the Northern Territory and into the East Kimberley
 URL: https://connected2country.au/regions/northern-territory-kimberley/
 
-For projects beyond the Top End, Connected2Country works with the relevant land council or Native Title representative body and local Traditional Owner organisations, and partners with regional specialists where that serves the client better. Helen has lived and worked in the East Kimberley and understands that heritage in Western Australia is governed by the Aboriginal Heritage Act 1972 as amended in 2023, with its section 18 consent process, the Aboriginal Cultural Heritage Inquiry System and the state's Aboriginal Heritage Survey Program, rather than the NT's AAPA and Heritage Act regime.
+Beyond the Top End I work through the relevant land council or Native Title body and local Traditional Owner organisations, and bring in regional specialists where that serves the client better. I have lived and worked in the East Kimberley, and I am aware that heritage over the border runs under Western Australia's Aboriginal Heritage Act 1972 (as amended in 2023), with its section 18 consents, the ACHIS register and the state Aboriginal Heritage Survey Program, rather than the NT's AAPA and Heritage Act system.
 
 Areas: The whole of the Northern Territory including Tennant Creek, the Barkly, Alice Springs and Central Australia, and the East Kimberley region of Western Australia: Kununurra, Wyndham, Lake Argyle, the Ord River irrigation area, Halls Creek and the Great Northern Highway corridor.
 
