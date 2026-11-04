@@ -218,11 +218,11 @@ AREAS=[{"@type":"City","name":"Darwin"},{"@type":"City","name":"Palmerston"},{"@
        {"@type":"Place","name":"Top End, Northern Territory"},{"@type":"State","name":"Northern Territory"},{"@type":"Place","name":"East Kimberley, Western Australia"}]
 ORG = {"@type":"ProfessionalService","@id":BASE+"/#org","name":BRAND,"alternateName":["Connected 2 Country Anthropology","C2C"],"url":BASE+"/",
   "logo":BASE+"/assets/logo.png","image":BASE+"/assets/og.png","telephone":PHONE_INTL,"email":EMAIL,
-  "description":"Consultant anthropologist and archaeologist based in Darwin providing Traditional Owner consultation, AAPA Authority Certificate support, cultural heritage assessment, heritage management plans, native title research, cultural inductions and AI and data governance advice across the Northern Territory and East Kimberley.",
+  "description":"Aboriginal-owned consultancy. Consultant anthropologist and archaeologist of Aboriginal descent based in Darwin providing Traditional Owner consultation, AAPA Authority Certificate support, cultural heritage assessment, heritage management plans, native title research, cultural inductions and AI and data governance advice across the Northern Territory and East Kimberley.",
   "address":{"@type":"PostalAddress","addressLocality":"Fannie Bay","addressRegion":"NT","postalCode":"0820","addressCountry":"AU"},
   "geo":{"@type":"GeoCoordinates","latitude":-12.43,"longitude":130.84},
   "areaServed":AREAS,"vatID":"ABN "+ABN,
-  "founder":{"@type":"Person","@id":BASE+"/about/#helen","name":"Helen Haritos","jobTitle":"Consultant Anthropologist and Archaeologist"},
+  "founder":{"@type":"Person","@id":BASE+"/about/#helen","name":"Helen Haritos","jobTitle":"Consultant Anthropologist and Archaeologist"},"keywords":"Aboriginal-owned business, Indigenous-owned consultancy",
   "priceRange":"$$","knowsAbout":["Traditional Owner consultation","Aboriginal sacred sites Northern Territory","AAPA Authority Certificates","Cultural heritage assessment","Native title research","Aboriginal Land Rights (Northern Territory) Act","Larrakia","Tiwi Islands","Indigenous Data Sovereignty"],
   "sameAs":[]}
 
@@ -270,7 +270,7 @@ def layout(path, title, desc, body, extra_ld=None):
 </main>
 <footer>
  <div class="wrap grid3">
-  <div><h3>{BRAND}</h3><p>Consultant anthropologist and archaeologist. Traditional Owner consultation, sacred sites and cultural heritage for the Northern Territory. Darwin-based, Territory-wide, East Kimberley-capable.</p>
+  <div><h3>{BRAND}</h3><p>Aboriginal-owned. Consultant anthropologist and archaeologist of Aboriginal descent. Traditional Owner consultation, sacred sites and cultural heritage for the Northern Territory. Darwin-based, Territory-wide, East Kimberley-capable.</p>
    <p><a href="tel:{PHONE_INTL}">{PHONE}</a><br><a href="mailto:{EMAIL}">{EMAIL}</a><br>Fannie Bay NT 0820</p></div>
   <div><h3>Services</h3><ul>{svc_links}</ul></div>
   <div><h3>Regions</h3><ul>{reg_links}</ul><h3>More</h3><ul><li><a href="/guides/">Guides</a></li><li><a href="/about/">About Helen Haritos</a></li><li><a href="/contact/">Contact</a></li></ul></div>
@@ -313,7 +313,7 @@ def home():
 <section class="hero"><div class="wrap">
  <p class="kicker">Consultant anthropologist · Darwin NT</p>
  <h1>Traditional Owner consultation and cultural heritage advice that gets Territory projects approved, and keeps them that way.</h1>
- <p class="lead">Connected2Country is the practice of Helen Haritos, an anthropologist and archaeologist with over 20 years in Aboriginal land, heritage and native title work in the NT. Traditional Owner consultation, AAPA Authority Certificate support, cultural heritage assessment, management plans, native title research and responsible use of AI in heritage work.</p>
+ <p class="lead">Connected2Country is the practice of Helen Haritos, an anthropologist and archaeologist of Aboriginal descent with over 20 years in Aboriginal land, heritage and native title work in the NT. Traditional Owner consultation, AAPA Authority Certificate support, cultural heritage assessment, management plans, native title research and responsible use of AI in heritage work.</p>
  <p><a class="btn big" href="/contact/">Get a scoped quote</a> <a class="btn ghost" href="tel:{PHONE_INTL}">Call {PHONE}</a></p>
  <p class="small">Servicing <a href="/regions/darwin-palmerston-rural/">Darwin, Palmerston and the rural area</a>, the <a href="/regions/top-end/">Top End</a>, and the <a href="/regions/northern-territory-kimberley/">wider NT and East Kimberley</a>.</p>
 </div></section>
@@ -403,7 +403,7 @@ def about():
             "memberOf":[{"@type":"Organization","name":"Australian Anthropological Society"},{"@type":"Organization","name":"American Anthropological Association"},{"@type":"Organization","name":"Archaeological and Anthropological Society of Victoria"},{"@type":"Organization","name":"World Archaeological Congress"}]}
     body=f"""{ch}
 <section class="wrap prose"><img class="portrait" src="/assets/helen.jpg" alt="Helen Haritos, Consultant Anthropologist, Connected2Country, in the field in the Northern Territory" width="600" height="600" loading="eager"><h1>About Connected2Country and Helen Haritos</h1>
-<p class="lead">Connected2Country is the consulting practice of Helen Haritos, an anthropologist and archaeologist who has lived in Darwin for most of her life and has over 20 years in Aboriginal land, heritage and native title work in the Northern Territory, including senior anthropologist roles in land councils, before moving into private practice.</p>
+<p class="lead">Connected2Country is the consulting practice of Helen Haritos, an anthropologist and archaeologist of Aboriginal descent who has lived in Darwin for most of her life and has over 20 years in Aboriginal land, heritage and native title work in the Northern Territory, including senior anthropologist roles in land councils, before moving into private practice.</p>
 <h2>Experience</h2>
 <ul>
 <li><strong>Senior Anthropologist, Tiwi Land Council (2022–2024):</strong> engagement with Tiwi Islanders, section 19 Land Rights Act lease negotiations, formation of the Tiwi cultural committee, sacred site surveys with AAPA, curation of artefact collections, and a flora and fauna clearance survey at the Osprey crash site.</li>
@@ -423,7 +423,7 @@ def about():
 <p>Every engagement is delivered by Helen. For larger programs she draws on trusted archaeologists, interpreters, cultural advisers and GIS support, and works alongside <a href="https://bellenviro.au/" rel="noopener">Bell Enviro</a> where a project needs environment and heritage handled together. Modern tools, including AI, are used for desktop research, drafting and record-keeping; fieldwork, relationships and professional judgement are not delegated.</p>
 <p>Connected2Country acknowledges the Larrakia people as Traditional Owners of the Darwin region, and the Traditional Owners of all the Country on which it works.</p>
 </section>{cta("Want to know whether Connected2Country is the right fit for your project? A ten-minute call usually settles it.")}"""
-    write("/about/", layout("/about/","About Helen Haritos | Consultant Anthropologist & Archaeologist, Darwin NT","Helen Haritos is a Darwin-based anthropologist and archaeologist with over 20 years in NT Aboriginal land and heritage work, now providing Traditional Owner consultation and cultural heritage services through Connected2Country.", body,[cl,person]))
+    write("/about/", layout("/about/","About Helen Haritos | Consultant Anthropologist & Archaeologist, Darwin NT","Helen Haritos is a Darwin-based anthropologist and archaeologist of Aboriginal descent with over 20 years in NT Aboriginal land and heritage work, now providing Traditional Owner consultation and cultural heritage services through Connected2Country.", body,[cl,person]))
     pages.append(("/about/",0.6))
 
 def contact():
@@ -464,7 +464,7 @@ def statics():
     bots=["GPTBot","OAI-SearchBot","ChatGPT-User","ClaudeBot","Claude-SearchBot","Claude-User","anthropic-ai","PerplexityBot","Perplexity-User","Google-Extended","Applebot-Extended","Bingbot","Amazonbot","meta-externalagent"]
     robots="User-agent: *\nAllow: /\nDisallow: /contact.php\nDisallow: /thanks/\n\n# AI crawlers explicitly welcome\n"+"".join(f"User-agent: {b}\nAllow: /\n" for b in bots)+f"\nSitemap: {BASE}/sitemap.xml\n"
     open(os.path.join(OUT,"robots.txt"),"w").write(robots)
-    llms=f"# {BRAND}\n\n> Consultant anthropologist and archaeologist (Helen Haritos) based in Darwin, Northern Territory, Australia. Provides Traditional Owner and Native Title holder consultation, AAPA Authority Certificate support and sacred site advice, cultural heritage and cultural values assessments, Cultural Heritage Management Plans and CEMP heritage sections, native title and anthropological research and expert reports, cultural awareness inductions and ceremony facilitation, and AI/digital services for cultural heritage including Indigenous Data Sovereignty advice. Over 20 years in NT Aboriginal land, heritage and native title work, including senior anthropologist roles with the Northern Land Council and Tiwi Land Council. Phone {PHONE}. Email {EMAIL}. ABN {ABN}.\n\n"
+    llms=f"# {BRAND}\n\n> Aboriginal-owned consultancy. Consultant anthropologist and archaeologist of Aboriginal descent (Helen Haritos) based in Darwin, Northern Territory, Australia. Provides Traditional Owner and Native Title holder consultation, AAPA Authority Certificate support and sacred site advice, cultural heritage and cultural values assessments, Cultural Heritage Management Plans and CEMP heritage sections, native title and anthropological research and expert reports, cultural awareness inductions and ceremony facilitation, and AI/digital services for cultural heritage including Indigenous Data Sovereignty advice. Over 20 years in NT Aboriginal land, heritage and native title work, including senior anthropologist roles with the Northern Land Council and Tiwi Land Council. Phone {PHONE}. Email {EMAIL}. ABN {ABN}.\n\n"
     llms+="Service regions in priority order: (1) Darwin, Palmerston and the Litchfield rural area (Larrakia country); (2) the Top End including Katherine, Kakadu, Arnhem Land, the Tiwi Islands and the Daly; (3) the wider Northern Territory and the East Kimberley region of Western Australia (Kununurra, Wyndham, Halls Creek).\n\n## Services\n"
     llms+="".join(f"- [{s['h1']}]({BASE}/services/{s['slug']}/): {s['desc']}\n" for s in SERVICES)
     llms+="\n## Regions\n"+"".join(f"- [{r['h1']}]({BASE}/regions/{r['slug']}/): {r['desc']}\n" for r in REGIONS)
